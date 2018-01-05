@@ -1,4 +1,4 @@
-Orchid Laundry Contingency Planss
+Orchid Laundry Contingency Plan
 ==========================
 ## Scenario 1 - Network Down
 Orchid Laundry is currently on single ISP plan, Singtel eLite 30Mbps.
