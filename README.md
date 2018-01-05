@@ -1,6 +1,6 @@
 Orchid Laundry Contingency Plan
 ==========================
-![sss](https://github.com/darren-synergix/OL/blob/master/network.png)
+![Network Diagram](https://raw.githubusercontent.com/darren-synergix/OL/master/network.png)
 
 
 ## Scenario 1 - Network Down
