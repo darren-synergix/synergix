@@ -1,4 +1,3 @@
-
 Orchid Laundry Contingency Plan
 ===========================
 ## Scenario 1 - Network Down
