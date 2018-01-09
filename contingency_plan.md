@@ -13,13 +13,16 @@ Intel Xeon E5-2620 v3 (6 core)
 48GB RAM
 2x 960GB SSD RAID1
 
+---
 
 ## Scenario 1 - Network Down
 Orchid Laundry is currently on single ISP plan.
+
 According to Vincent, "The uptime is very good. No outage that I am aware off".
 
 ### Problem
 Synergix E1 cannot be accessed.
+
 Jensen cannot retrieve shared files, no transfer of data between Synergix and Jensen.
 
 ### Possible Cause
