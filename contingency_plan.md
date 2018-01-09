@@ -3,13 +3,23 @@ Orchid Laundry Contingency Plan
 ==========================
 ![Network Diagram](https://raw.githubusercontent.com/darren-synergix/OL/master/network.png)
 
+## Info
+### ISP Plan
+Singtel eLite 30Mbps
+
+### Web Hosting Service
+Dedicated Server
+Intel Xeon E5-2620 v3 (6 core)
+48GB RAM
+2x 960GB SSD RAID1
+
 
 ## Scenario 1 - Network Down
-Orchid Laundry is currently on single ISP plan, Singtel eLite 30Mbps.
+Orchid Laundry is currently on single ISP plan.
 According to Vincent, "The uptime is very good. No outage that I am aware off".
 
 ### Problem
-Synergix E1 cannot be accessed
+Synergix E1 cannot be accessed.
 Jensen cannot retrieve shared files, no transfer of data between Synergix and Jensen.
 
 ### Possible Cause
@@ -25,7 +35,8 @@ Natural disaster, ISP maintenance, DDoS attack
 Orchid Laundry is currently on a dedicated server hosted by Webvisions.
 
 ### Problem
-Synergix E1 cannot be accessed
+Synergix E1 cannot be accessed.
+
 Jensen cannot retrieve shared files, no transfer of data between Synergix and Jensen.
 
 ### Possible Cause
@@ -62,7 +73,7 @@ Orchid requested after shift (11pm) deployment
 
 ## Scenario 4 - Jensen Down
 ### Problem
-Jensen system not working, unable to transport garment and sort, or unable to retrieve file from Synergix.
+Jensen is unable to transport garment and sort, or unable to retrieve file from Synergix due to Jensen system fault.
 
 ### Potential Solution
 If Jensen server or hardware is down, there is no other option until Jensen resolves it.
@@ -79,18 +90,3 @@ If any part of the network link owned by OL is down, there is no other option un
 * PC
 * Network Router
 * Any Physical Cable
-
-## Info
-### ISP Plan
-Singtel eLite 30Mbps
-
-### Network Diagram
-Internet -> Fortigate 100D WAN -> TPLink Gigabit Switch
-
-### Jensen
-
-### Web Hosting Service
-Dedicated Server
-Intel Xeon E5-2620 v3 (6 core)
-48GB RAM
-2x 960GB SSD RAID1
