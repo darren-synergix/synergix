@@ -8,14 +8,14 @@ Orchid Laundry Contingency Plan
 Singtel eLite 30Mbps
 
 ### Web Hosting Service
-Dedicated Server
-Intel Xeon E5-2620 v3 (6 core)
-48GB RAM
-2x 960GB SSD RAID1
+- Dedicated Server
+- Intel Xeon E5-2620 v3 (6 core)
+- 48GB RAM
+- 2x 960GB SSD RAID1
 
 ---
 
-## Scenario 1 - Network Down
+## Scenario 1 - ISP Down
 Orchid Laundry is currently on single ISP plan.
 
 According to Vincent, "The uptime is very good. No outage that I am aware off".
@@ -30,7 +30,7 @@ Natural disaster, ISP maintenance, DDoS attack
 
 ### Potential Solution
 1. Multiple ISP plan for redundancy
-2. 4G mobile broadband as backup
+2. 4G mobile broadband as backup network
 
 ---
 
@@ -46,7 +46,36 @@ Jensen cannot retrieve shared files, no transfer of data between Synergix and Je
 Maintenance work, vendor network breakdown 
 
 ### Potential Solution
-???
+#### 1. Host in-house server
+Pros
+- Have total control over own server
+- Running on LAN
+
+Cons
+- Costly
+- Own setup
+- Own 24/7 maintenance
+- No support
+- No up-time guarantee
+- Require a team of IT personnel
+- Reliability is no better than hosting service
+- Retail shop, deployed staff, mobile operations cannot access system if server down
+
+
+#### 2.  Host in-house Backup Server for Master Data Only + Local App
+Instead of using web app, OL can request desktop app version of the same module such as RFID Tracking System. OL can also request a desktop app to manually key in order data for Jensen to process.
+
+Daily backup of master data to OL own backup server. There is no need to store transaction data, since Jensen requires the latest one in real time, whatever that is stored is considered outdated to Jensen.
+
+Pros
+- Master data still can be retrieved, but it could be outdated 
+- Jensen still can work
+
+Cons
+- All the cons of hosting in-house server
+- Order coming in from retail shop needs to be key in manually again, so that Jensen can process
+
+
 
 ---
 
@@ -65,12 +94,12 @@ User cannot access or has problem with certain module, such as Sales Order and R
 4. Config is not turned on/off
 
 ### Potential Solution
-???
+1. Contact Synergix Helpdesk from 9am to 6pm SGT, Mon-Fri, excluding holidays
+2. Synergix After hour support package
 
 ### Note
-Orchid requested 365 days technical support 
-Orchid requested after shift (11pm) deployment
-
+1. Orchid requested 365 days technical support 
+2. Orchid requested after shift (11pm) deployment
 
 ---
 
@@ -84,8 +113,12 @@ If Jensen server or hardware is down, there is no other option until Jensen reso
 
 ---
 
-## Scenario 5 - Factory Hardware Down
-If any part of the network link owned by OL is down, there is no other option until OL replaces it with a backup or a new device. The link includes but not limited to:
+## Scenario 5 - OL-Owned Hardware or Network Down 
+### Problem
+If any part of the hardware/network link owned by OL is down, Synergix software that requires that hardware/network cannot be accessed.
+
+### Potential Solution
+If any part of the network link owned by OL is down, there is no other option until OL replaces it with a backup or a new device, or fix the network. The link includes but not limited to:
 
 * RFID Gantry, includes Antenna and Reader
 * RFID Handheld Reader
@@ -93,3 +126,6 @@ If any part of the network link owned by OL is down, there is no other option un
 * PC
 * Network Router
 * Any Physical Cable
+
+Hardware and network stated here includes OL factory, retail outlet, franchise, and mobile operations. 
+
