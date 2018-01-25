@@ -21,6 +21,7 @@ Edgeworks will also provide new hardware including</p>
 <li>1D Barcode Scanner</li>
 <li>Receipt Printer</li>
 </ol>
+<hr>
 <h2 id="rfid-soil-in-and-dispatch">RFID Soil-in and Dispatch</h2>
 <h3 id="rfid-gantry-✔">RFID Gantry ✔</h3>
 <p>RFID Tuning and Optimization service will be conducted by Synergix’s RFID partner.</p>
@@ -59,6 +60,7 @@ Edgeworks will also provide new hardware including</p>
 <li>1D Barcode Scanner</li>
 <li>All-in-One PC</li>
 </ol>
+<hr>
 <h2 id="jensen-sorter--conveyor-system">Jensen Sorter &amp; Conveyor System</h2>
 <h3 id="barcode-and-rfid-tag-association-solution">Barcode and RFID Tag Association Solution</h3>
 <p>2 units of the following:</p>
@@ -78,6 +80,7 @@ Edgeworks will also provide new hardware including</p>
 <li>Serial Cable (Reader to Jensen Cabinet, 2-3 meters)</li>
 <li>Middleware customization to integrate with Jensen</li>
 </ol>
+<hr>
 <h2 id="mobile-do">Mobile DO</h2>
 <h3 id="mobile-do-✘">Mobile DO ✘</h3>
 <p>1 unit of the following for each driver:</p>
@@ -85,6 +88,7 @@ Edgeworks will also provide new hardware including</p>
 <li>Any Android/Windows Tablet  with at least 9" screen size</li>
 </ol>
 <p>Note: 4G sim card</p>
+<hr>
 <h2 id="kpi-tracking-solution">KPI Tracking Solution</h2>
 <h3 id="jensen-machine-✘">Jensen Machine ✘</h3>
 <p>1 unit of the following for each Jensen machine:</p>
