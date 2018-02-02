@@ -22,8 +22,8 @@ OL Stuff
 	- POS with full integration to cash drawer and thermal receipt printer
 
 
-## 25/7/2017
-- Overview diagram v1 presented and sent to OL
+## 25/7/2017 Overview Diagram V1
+- Overview diagram v1 presented and __sent to OL__
 
 | Module | Included  |
 |:--|:--:|
@@ -37,24 +37,24 @@ OL Stuff
 
 [Link to Overview Diagram v1](https://darren-synergix.github.io/OL/od_v1.pdf)
  
-## 10/10/2017
+## 10/10/2017 A1 Quotation
 - Zann sent A1 r5 quotation to OL
 
 
-## 12/10/2017
+## 12/10/2017 Machine Process Study
 - Darren conducted Machine Productivity Tracking and WIP study (A2 item) and uncovered the following:
 	- Manual machine productivity tracking 
 	- Master Dashboard
 
 
-## 8/11/2017
+## 8/11/2017 A1 Cost Discussion
 - Zann met with OL to discuss A1 cost
 - OL requested a 'fully integrated workflow diagram which include POS, ERP, and all integration boxes with machines, RFID etc'
 - Darren started revising Overview Diagram
 
 
-## 23/11/2017
-- Overview Diagram V2 presented but not sent to OL
+## 23/11/2017 Overview Diagram V2
+- Overview Diagram V2 presented but __did not send to OL__
 - Harry mentioned that table top solution is missing
 - Harry requested a faster way to enter sales order for hotel guest
 
@@ -70,8 +70,8 @@ OL Stuff
 
 [Link to Overview Diagram v2](https://darren-synergix.github.io/OL/od_v2.pdf)
 
-## 29/11/2017
-- Overview Diagram V3 presented and sent to OL
+## 29/11/2017 Overview Diagram V3
+- Overview Diagram V3 presented and __sent to OL__
 - B2B and B2C presented and sent to OL
 
 | Module | Included  |
