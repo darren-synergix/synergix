@@ -1,6 +1,7 @@
 ## Presales 
+
 | Module | Included  |
-|:-- |:--:|
+|--|--|
 | Jensen Sorter |  &#10008; |
 | RFID Handheld  | &#10008;  |
 | Table Top solution  | &#10008;  |
