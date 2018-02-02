@@ -15,12 +15,17 @@ OL Stuff
 
 [Link to Overview Diagram v0](https://darren-synergix.github.io/OL/od_v0.pdf)
 
-## Process Study from Feb to July 2017
-- Process study uncovered new requirements as follow:
-	- Jensen sorter 
-	- RFID handheld reader  
-	- POS with full integration to cash drawer and thermal receipt printer
 
+## Process Study from Feb to May 2017
+Process study uncovered new requirements as follow:
+- Jensen sorter
+- RFID handheld reader
+- POS with full integration to cash drawer and thermal receipt printer
+
+
+## 16/6/2017 POS Process Study, Retail Shop Visit
+
+## 21/6/2017 Jensen Process Study
 
 ## 25/7/2017 Overview Diagram V1
 - Overview diagram v1 presented and __sent to OL__
