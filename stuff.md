@@ -61,7 +61,7 @@ Process study uncovered new requirements as follow:
 ## 23/11/2017 Overview Diagram V2
 - Overview Diagram V2 presented but __did not send to OL__
 - Harry mentioned that table top solution is missing
-- Harry requested a faster way to enter sales order for hotel guest
+- Harry requested a faster version of Sales Order for hotel guest 
 
 | Module | Included  |
 |:--|:--:|
