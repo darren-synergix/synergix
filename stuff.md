@@ -1,6 +1,6 @@
 ## Presales 
 | Module | Included  |
-|:--|:--:|
+|:-- |:--:|
 | Jensen Sorter |  &#10008; |
 | RFID Handheld  | &#10008;  |
 | Table Top solution  | &#10008;  |
@@ -8,6 +8,7 @@
 | Jensen Machine  | &#10004;  |
 | Manual Machine  | &#10008;  |
 | Hotel Guest Sales Order  | &#10008;  |
+
 
 
 ## Process Study from Feb to July 2017
